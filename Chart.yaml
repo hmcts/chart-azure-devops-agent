@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for an Azure Devops agent
+name: azure-devops-agent
+version: 0.0.1
